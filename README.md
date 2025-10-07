@@ -9,6 +9,7 @@ O projeto foi consolidado em um artigo publicado no **Medium**, detalhando todas
 ---
 
 ## 2. Estrutura do projeto
+```
 Projeto/
 ├─ Data/
 │ ├─ Raw/ 
@@ -23,6 +24,7 @@ Projeto/
 ├─ src/
 │ └─ etl.py 
 └─ README.md
+```
 
 > **Observação:** os notebooks podem ser abertos no **Jupyter Notebook**, **VS Code** ou **Google Colab**.
 
