@@ -11,12 +11,12 @@ O projeto foi consolidado em um artigo publicado no **Medium**, detalhando todas
 ## 2. Estrutura do projeto
 ```
 Projeto/
-├─ Data/
-│ ├─ Raw/ 
+├─ data/
+│ ├─ raw/ 
 │ │ ├─ concessoes_pf_20633.csv
 │ │ ├─ selic_4189.csv
 │ │ └─ taxa_juros_pf_20716.csv
-│ └─ Processed/ 
+│ └─ processed/ 
 │   └─ dados_processados.csv
 ├─ Notebooks/
 │ ├─ analise.ipynb 
